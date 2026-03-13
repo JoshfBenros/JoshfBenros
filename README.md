@@ -75,4 +75,5 @@ The lab is used to experiment with infrastructure, networking, and security tool
 
 ## Connect
 
+Email: josh.benros@uri.edu
 GitHub: https://github.com/JoshfBenros
